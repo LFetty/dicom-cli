@@ -77,12 +77,12 @@ uv run python dicom_cli.py path/to/dicom/directory/
 ### Navigation and Controls
 
 #### File Navigation
-- `h` or `ê`: Previous file
-- `l` or `í`: Next file
+- `h` or `ÔøΩ`: Previous file
+- `l` or `ÔøΩ`: Next file
 
 #### Tag Tree Navigation
-- `j` or `ì`: Move down in tree
-- `k` or `ë`: Move up in tree
+- `j` or `ÔøΩ`: Move down in tree
+- `k` or `ÔøΩ`: Move up in tree
 - `Space` or `Enter`: Expand/collapse tree nodes
 
 #### Image Viewing
@@ -196,8 +196,6 @@ If you encounter import errors for optional dependencies:
 
 ## License
 
-[Add your license information here]
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
-## Contributing
-
-[Add contributing guidelines here]
+Copyright 2025 Lukas Zimmermann
